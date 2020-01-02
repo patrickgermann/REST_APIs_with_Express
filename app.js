@@ -14,7 +14,7 @@ app.use( (req, res, next) => {
     next(err);
 });
 
-// Error handler (used by Middleware)
+// Middleware Error handler
 app.use( (err, req, res, next) => {
     res.status(err.status || 500);
     res.json({
