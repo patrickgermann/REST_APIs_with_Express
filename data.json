@@ -6,11 +6,6 @@
       "author": "Martin Luther King"
     },
     {
-      "id": 5779,
-      "quote": "I am your father!",
-      "author": "Darth Vader"
-    },
-    {
       "id": 3406,
       "quote": "To succeed, you have to do something and be very bad at it for a while. You have to look bad before you can look really good.",
       "author": "Barbara DeAngelis"
@@ -24,6 +19,11 @@
       "quote": "I am your father!",
       "author": "Darth Vader",
       "id": 7385
+    },
+    {
+      "quote": "Nobody has the plan to build a wall",
+      "author": "Donald Trump",
+      "id": 656
     }
   ]
 }
